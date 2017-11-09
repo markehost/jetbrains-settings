@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="pu" value="puts &quot;----------------------------------&quot;&#10;puts &quot;--------------- val --------------&quot;&#10;puts val&#10;puts &quot;----------------------------------&quot;" description="puts" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>

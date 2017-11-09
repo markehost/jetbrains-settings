@@ -1,10 +1,18 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FindInPath">
