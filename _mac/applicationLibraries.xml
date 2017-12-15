@@ -474,6 +474,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/faker-1.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="fakeredis (v0.6.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/fakeredis-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/fakeredis-0.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/fakeredis-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/fakeredis-0.6.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.11.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/faraday-0.11.0/lib" />
